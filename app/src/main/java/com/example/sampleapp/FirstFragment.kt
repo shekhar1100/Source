@@ -9,7 +9,7 @@ import android.widget.Button
 import androidx.navigation.fragment.findNavController
 
 /**
- * A simple [Fragment] subclass as the default destination in the navigation.
+ * A simple [Fragment] subclass as the default destination in the navigation. This is new test for synch.
  */
 class FirstFragment : Fragment() {
 
